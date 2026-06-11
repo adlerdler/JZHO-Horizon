@@ -1,10 +1,13 @@
 # Table of contents
 
 [README](<JZHO - Horizon/README.md>)
+[LICENSE](<JZHO - Horizon/LICENSE.md>)
+[COPYRIGHT](<JZHO - Horizon/COPYRIGHT.md>)
+
 
 ## 序言
-* [序：在视界之外，重构你的世界](序：在视界之外，重构你的世界.md)
-* [关于我](关于我.md)
+* [序](<JZHO- Horizon/序：在视界之外，重构你的世界.md>)
+* [关于我](<JZHO- Horizon/关于我.md>)
 
 ## 第一章：破壁
 * [1.1 信息围墙 - 你被困住了吗？](<Chapters/Part1 破壁/1.1 信息围墙 - 你被困住了吗？.md>)
@@ -45,7 +48,7 @@
 * [4.7 实战演练 - 设计你的能量管理系统](<Chapters/Part4 守恒/4.7 实战演练 - 设计你的能量管理系统.md>)
 
 ## 结语
-* [结语：跨过视界](结语：跨过视界.md)
+* [结语：跨过视界](<结语：跨过视界.md>)
 
 ## 🗂️ 核心资源
 * [📊 书籍统计](<Chapters/附录/📊 书籍统计.md>)
