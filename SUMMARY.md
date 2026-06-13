@@ -60,3 +60,5 @@
 * [🗺️ 知识图谱](<Chapters/附录/🗺️ 知识图谱.md>)
 * [📇 核心概念索引](<Chapters/附录/📇 核心概念索引.md>)
 * [🎯 行动清单汇总](<Chapters/附录/🎯 行动清单汇总.md>)
+* [Tasks 提示词](<Chapters/附录/Tasks 提示词.md>)
+* [我的每日生活指南](<Chapters/附录/我的每日生活指南.md>)

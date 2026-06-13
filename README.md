@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Chapters\Part2 共生\assets\Gemini_Generated_Image_nozegonozegonoze.png" alt="JZHO-Horizon Cover" width="100%"/>
+  <img src="Chapters/Part2 共生/assets/Gemini_Generated_Image_nozegonozegonoze.png" alt="JZHO-Horizon Cover" width="100%"/>
 
   # 🌅 JZHO - Horizon
 
